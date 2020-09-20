@@ -1,13 +1,12 @@
-# front-back-end
-- share my expreiences about front-back-end development, and I will update my knowledge once a week, promgram code will also be attached.
-- I will give you advice how to be a code engineer, and how to develop youself.
+## 项目介绍
+- 本文是基于React+nodejs+mongodb实现的前后端交互的实时聊天系统，能够完成用户的登录、注册、聊天、查看消息、登出等功能。
 
-# front-end
- - React
- - Js
- - JQuery
- - NodeJs
- - Npm
- - BootStrap
- - Css
- - ...
+## Start
+1. 先将代码clone到本地
+> git clone git@github.com:Lideqiang2019/Front-Back-end.git
+2. 使用npm安装依赖项
+> npm install
+3. 启用mongodb数据库与前后端
+> npm start
+
+## 登录
