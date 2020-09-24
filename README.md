@@ -11,3 +11,7 @@
  - BootStrap
  - Css
  - ...
+
+# Project
+ 1. DocSic: a chat app, more information can be found in directory Doc-Sic-App
+ 2. city-kepler-windows: a version can be developed in windows, more information can be found in directory city-kepler-windows
