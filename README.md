@@ -4,7 +4,7 @@
 
 ## Start
 1. 先将代码clone到本地
-> git clone git@github.com:Lideqiang2019/Front-Back-end.git
+> git clone https://github.com/Lideqiang2019/Docotor-Sicker-Talk-App.git
 2. 使用npm安装依赖项
 > npm install
 3. 启用mongodb数据库与前后端
